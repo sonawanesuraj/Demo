@@ -1,0 +1,171 @@
+{
+  "project_info": {
+    "project_number": "858786260865",
+    "firebase_url": "https://developer-fc8ff.firebaseio.com",
+    "project_id": "developer-fc8ff",
+    "storage_bucket": "developer-fc8ff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:858786260865:android:3397f264493d6ed7916a80",
+        "android_client_info": {
+          "package_name": "com.krushisetu.shop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "858786260865-n92jvofj47hia6ev1na6vf2gcofltsk3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.krushisetu.shop",
+            "certificate_hash": "8acd599e36d8698ae632bc18b41b229000b0f212"
+          }
+        },
+        {
+          "client_id": "858786260865-0a407atv7p3e39g89q322idprp7g4ag2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPLkPr3iv8qkaP6VOX-WB3oAu81vrJjvA"
+        },
+        {
+          "current_key": "AIzaSyAtWAhQRW9gUSBpqeQTTID2LGXTkRvnoaA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "858786260865-0a407atv7p3e39g89q322idprp7g4ag2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:858786260865:android:98517f78ed140c02916a80",
+        "android_client_info": {
+          "package_name": "com.mobikode.statussaver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "858786260865-4vj4vb37qtjrk3t3ibqubgn62o9lhh62.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mobikode.statussaver",
+            "certificate_hash": "3c5fbd73c909d428e04cd80e0c631548e96cc5f8"
+          }
+        },
+        {
+          "client_id": "858786260865-0a407atv7p3e39g89q322idprp7g4ag2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPLkPr3iv8qkaP6VOX-WB3oAu81vrJjvA"
+        },
+        {
+          "current_key": "AIzaSyAtWAhQRW9gUSBpqeQTTID2LGXTkRvnoaA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "858786260865-0a407atv7p3e39g89q322idprp7g4ag2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:858786260865:android:c8eeee10c2b4a0b6916a80",
+        "android_client_info": {
+          "package_name": "com.mobikode.trial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "858786260865-btii6jcgvdtdg20u19risb5rnf8m5cm2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mobikode.trial",
+            "certificate_hash": "8acd599e36d8698ae632bc18b41b229000b0f212"
+          }
+        },
+        {
+          "client_id": "858786260865-0a407atv7p3e39g89q322idprp7g4ag2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPLkPr3iv8qkaP6VOX-WB3oAu81vrJjvA"
+        },
+        {
+          "current_key": "AIzaSyAtWAhQRW9gUSBpqeQTTID2LGXTkRvnoaA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "858786260865-0a407atv7p3e39g89q322idprp7g4ag2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:858786260865:android:963f215878607170916a80",
+        "android_client_info": {
+          "package_name": "com.wpes.medicine"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "858786260865-19trchphhqgq3fabdpm8pngqg9t71qba.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wpes.medicine",
+            "certificate_hash": "fd40cf121d95afb2ebab4b2aa3eb6fc5c3c159d0"
+          }
+        },
+        {
+          "client_id": "858786260865-0a407atv7p3e39g89q322idprp7g4ag2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPLkPr3iv8qkaP6VOX-WB3oAu81vrJjvA"
+        },
+        {
+          "current_key": "AIzaSyAtWAhQRW9gUSBpqeQTTID2LGXTkRvnoaA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "858786260865-0a407atv7p3e39g89q322idprp7g4ag2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
